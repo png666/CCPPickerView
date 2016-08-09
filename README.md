@@ -9,5 +9,5 @@ a.解决的需求
 
 4.注意金额按万为单位返回,时间按月份为单位返回.
 
-b.效果图
-
+b.效果图 
+![Image text](CCPPickerView/CCPPickerView/Image/20160712220535022.gif)
